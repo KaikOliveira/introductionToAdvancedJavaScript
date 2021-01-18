@@ -11,3 +11,7 @@ var resultado1 = media(6, 8);
 var resultado2 = media(4, 2);
 
 console.log(resultado1 + " e " + resultado2);
+console.log(resultado1 + " e " + resultado2);
+console.log(resultado1 + " e " + resultado2);
+console.log(resultado1 + " e " + resultado2);
+console.log(resultado1 + " e " + resultado2);
